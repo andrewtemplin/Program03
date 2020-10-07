@@ -81,6 +81,7 @@ public class Cypher {
 			}
 		}
 		System.out.println(encryption);
+		System.out.println("Gotcha");
 	}
 	
 	private static void decode(String input, char[] cipher, char[] plain) {
